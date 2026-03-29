@@ -13,7 +13,7 @@
 | **Período Letivo** | 2.º Semestre |
 | **Ano Curricular** | 1.º |
 | **Ano letivo** | 2023 / 2024 |
-| **Docente** | Prof. Gonçalo Nogueira |
+| **Docente** | Prof. Hugo Pires |
 | **Aluno** | Gonçalo Lopes Fernandes · Nº 2022148 |
 | **Nota Final** | ⏳ A aguardar — prevista para maio/junho de 2026 |
 
