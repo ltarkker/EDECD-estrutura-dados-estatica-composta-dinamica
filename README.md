@@ -13,8 +13,9 @@
 | **Período Letivo** | 2.º Semestre |
 | **Ano Curricular** | 1.º |
 | **Ano letivo** | 2023 / 2024 |
+| **Docente** | Prof. Gonçalo Nogueira |
 | **Aluno** | Gonçalo Lopes Fernandes · Nº 2022148 |
-| **Nota Final** | ⏳ A aguardar — prevista para maio de 2026 |
+| **Nota Final** | ⏳ A aguardar — prevista para maio/junho de 2026 |
 
 ---
 
@@ -23,19 +24,20 @@
 ```
 .
 ├── exercicios/
-│   ├── Ficha_Diagnostico_EDECD.pdf              # Ficha de diagnóstico — 27 questões teóricas
-│   └── Relatorio_Andre_Costa.docx               # Relatório complementar
+│   ├── 1Produto.png                                       # Classe Produto — código
+│   ├── 2Inventário.png                                    # Classe Inventário — código
+│   ├── 3Add produto.png                                   # Método adicionar_produto — código
+│   ├── 4Vender produto.png                                # Método vender_produto — código
+│   ├── 5Mostrar produto.png                               # Método mostrar_inventario — código
+│   ├── 6Exemplo de produtos laptop smart.png              # Exemplo de execução — código
+│   ├── Estrutura de Dados Estática, Composta e Dinâmica.pdf  # Ficha de diagnóstico — 27 questões
+│   └── frame (1).png                                      # QR Code
 ├── material/
-│   ├── 1Produto.png                             # Classe Produto — código
-│   ├── 2Inventário.png                          # Classe Inventário — código
-│   ├── 3Add_produto.png                         # Método adicionar_produto — código
-│   ├── 4Vender_produto.png                      # Método vender_produto — código
-│   ├── 5Mostrar_produto.png                     # Método mostrar_inventario — código
-│   └── 6Exemplo_de_produtos_laptop_smart.png    # Exemplo de execução — código
-├── projeto/
-│   ├── Projeto_Final.pdf                        # Relatório do Projeto Final — 17/04/2024
-│   └── Código_Gonçalo_Fernandes_148.py          # Código Python — Sistema de Gestão de Inventário
+│   ├── Código_Gonçalo_Fernandes_148.py                    # Código Python — Sistema de Gestão de Inventário
+│   ├── Projeto Final.pdf                                  # Relatório do Projeto Final — 17/04/2024
+│   └── Relatorio Andre Costa.docx                         # Relatório complementar
 ├── notas/
+│   └── a.txt                                              # Placeholder — nota pendente
 └── README.md
 ```
 
