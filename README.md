@@ -15,7 +15,7 @@
 | **Ano letivo** | 2023 / 2024 |
 | **Docente** | Prof. Hugo Pires |
 | **Aluno** | Gonçalo Lopes Fernandes · Nº 2022148 |
-| **Nota Final** | ⏳ A aguardar — prevista para maio/junho de 2026 |
+| **Nota Final** | 15 valores ✅
 
 ---
 
